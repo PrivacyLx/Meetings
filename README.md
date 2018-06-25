@@ -6,6 +6,4 @@
 
 |Data|Título|Local|
 |---|---|---|
-|2018/06/16| asd |Biblioteca Curocheus |
-|   |   |   |
-|   |   |   |
+|2018/06/16| [**Workshop Privacidade Digital**](https://github.com/PrivacyLx/Meetings/blob/master/2018-06-16%20WorkshopPrivacidadeDigital.md) |Biblioteca Curocheus |
