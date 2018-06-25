@@ -1,6 +1,6 @@
 # Workshop: Explorar o Tor em Lisboa, Portugal 
 
-![imagem do workshop]()
+![imagem do workshop](https://raw.githubusercontent.com/PrivacyLx/Meetings/master/Resources/2018-06-28TorMeetingImage.jpg)
 
 [English version below]
 
